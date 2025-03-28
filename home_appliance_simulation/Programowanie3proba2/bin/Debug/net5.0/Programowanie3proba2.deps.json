@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Programowanie3proba2/1.0.0": {
+        "runtime": {
+          "Programowanie3proba2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programowanie3proba2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\parob\source\repos\Programowanie3proba2\Programowanie3proba2\bin\Debug\net5.0\Programowanie3proba2.exe
+C:\Users\parob\source\repos\Programowanie3proba2\Programowanie3proba2\bin\Debug\net5.0\Programowanie3proba2.deps.json
+C:\Users\parob\source\repos\Programowanie3proba2\Programowanie3proba2\bin\Debug\net5.0\Programowanie3proba2.runtimeconfig.json
+C:\Users\parob\source\repos\Programowanie3proba2\Programowanie3proba2\bin\Debug\net5.0\Programowanie3proba2.runtimeconfig.dev.json
+C:\Users\parob\source\repos\Programowanie3proba2\Programowanie3proba2\bin\Debug\net5.0\Programowanie3proba2.dll
+C:\Users\parob\source\repos\Programowanie3proba2\Programowanie3proba2\bin\Debug\net5.0\ref\Programowanie3proba2.dll
+C:\Users\parob\source\repos\Programowanie3proba2\Programowanie3proba2\bin\Debug\net5.0\Programowanie3proba2.pdb
+C:\Users\parob\source\repos\Programowanie3proba2\Programowanie3proba2\obj\Debug\net5.0\Programowanie3proba2.csproj.AssemblyReference.cache
+C:\Users\parob\source\repos\Programowanie3proba2\Programowanie3proba2\obj\Debug\net5.0\Programowanie3proba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parob\source\repos\Programowanie3proba2\Programowanie3proba2\obj\Debug\net5.0\Programowanie3proba2.AssemblyInfoInputs.cache
+C:\Users\parob\source\repos\Programowanie3proba2\Programowanie3proba2\obj\Debug\net5.0\Programowanie3proba2.AssemblyInfo.cs
+C:\Users\parob\source\repos\Programowanie3proba2\Programowanie3proba2\obj\Debug\net5.0\Programowanie3proba2.csproj.CoreCompileInputs.cache
+C:\Users\parob\source\repos\Programowanie3proba2\Programowanie3proba2\obj\Debug\net5.0\Programowanie3proba2.dll
+C:\Users\parob\source\repos\Programowanie3proba2\Programowanie3proba2\obj\Debug\net5.0\ref\Programowanie3proba2.dll
+C:\Users\parob\source\repos\Programowanie3proba2\Programowanie3proba2\obj\Debug\net5.0\Programowanie3proba2.pdb
+C:\Users\parob\source\repos\Programowanie3proba2\Programowanie3proba2\obj\Debug\net5.0\Programowanie3proba2.genruntimeconfig.cache
