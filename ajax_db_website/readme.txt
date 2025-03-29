@@ -1,0 +1,1 @@
+Basic coffee discussion forum built with HTML, JavaScript, AJAX, PHP, and MySQL. It features user registration and login, dynamic content updates, and robust data management.
